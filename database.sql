@@ -1,6 +1,3 @@
--- DOKUMENTASI: BookStore Database Schema
--- Database: bookstore
--- Import file ini via phpMyAdmin, lalu jalankan install.php sekali untuk setup akun admin.
 
 CREATE DATABASE IF NOT EXISTS bookstore CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 USE bookstore;
